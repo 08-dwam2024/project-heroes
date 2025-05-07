@@ -22,6 +22,7 @@ Développer un site web permettant de consulter et d’interagir avec des donné
 - L’utilisateur peut gérer son équipe (ajout, modification, suppression)  
 - Utilisation obligatoire des outils suivants :
   - Trello (gestion de projet)
+    - lien : https://trello.com/invite/b/681afe18f0d586408dc22197/ATTI1e3c3e2533b8dfbecf1150690d6d724041CF1566/projet-marvel
   - GitHub (gestion de version et collaboration)
 
 ## Étapes de réalisation
